@@ -43,5 +43,7 @@ class Clock {
 }
 
 const clock = new Clock();
-//console.log(clock.date);
-//console.log(clock.hours);
+
+
+
+
